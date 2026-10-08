@@ -33,7 +33,7 @@ AI가 프롬프트에 따라 사용자의 환경을 확인하고 다음을 구�
 
 ## 🚀 사용 방법
 
-1. [macOS 설치 프롬프트](./masos-install-prompt.md)를 엽니다.
+1. [macOS 설치 프롬프트](./prompt/masos-install-prompt.md)를 엽니다.
 2. 프롬프트 전체를 복사합니다.
 3. Mac 파일과 터미널에 접근할 수 있는 **ChatGPT Work 또는 Codex**에 붙여넣습니다.
 4. 로그인 확인, 최초 실행 시각 선택 및 필요한 권한 승인을 진행합니다.
