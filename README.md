@@ -1,4 +1,4 @@
-# ⏱️ Codex Window Keeper for macOS
+# ⏱️ codex-5h-auto-request-macos
 
 ChatGPT Plus 요금제로 ChatGPT Work와 Codex를 사용하는 Mac 사용자를 위한 **자동화 설치 프롬프트**입니다.
 
